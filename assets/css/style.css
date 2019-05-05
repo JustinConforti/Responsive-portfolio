@@ -130,7 +130,7 @@ a {
     padding-top: 5px;
     height: 595px;
     
-    background-image: url("C:/Users/Justin/Desktop/Responsive-portfolio/assets/images/dark_wood.png");
+    background-image: url("dark_wood.png");
 
 }
 
@@ -362,7 +362,7 @@ a {
     padding-top: 5px;
     margin: 0 auto;
     height: 700px;
-    background-image: url("C:/Users/Justin/Desktop/Responsive-portfolio/assets/images/dark_wood.png");
+    background-image: url("dark_wood.png");
 
 }
 
@@ -697,7 +697,7 @@ label {
         height: 650px;
         box-sizing: border-box;
         width: 100%;
-        background-image: url("C:/Users/Justin/Desktop/Responsive-portfolio/assets/images/dark_wood.png");
+        background-image: url("dark_wood.png");
 
     }
     
@@ -706,8 +706,7 @@ label {
         height: 1500px;
         box-sizing: border-box;
         width: 100%;
-        background-image: url("C:/Users/Justin/Desktop/Responsive-portfolio/assets/images/dark_wood.png");
-
+        background-image: url("dark_wood.png");
     }
 
     .portfolio-background {
@@ -923,8 +922,7 @@ label {
         height: 1500px;
         box-sizing: border-box;
         width: 100%;
-        background-image: url("C:/Users/Justin/Desktop/Responsive-portfolio/assets/images/dark_wood.png");
-
+        background-image: url("dark_wood.png");
     }
 
     .main-background {
@@ -932,9 +930,7 @@ label {
         height: 650px;
         box-sizing: border-box;
         width: 95%;
-        background-image: url("C:/Users/Justin/Desktop/Responsive-portfolio/assets/images/dark_wood.png");
-
-    }
+        background-image: url("dark_wood.png");    }
 
     .portfolio-background {
 
@@ -1285,8 +1281,7 @@ label {
         box-sizing: border-box;
         width: 100%;
         max-width: 450px;
-        background-image: url("C:/Users/Justin/Desktop/Responsive-portfolio/assets/images/dark_wood.png");
-
+                background-image: url("assets\images\dark_wood.jpg");
     }
 
     .background-portfolio {
@@ -1294,7 +1289,7 @@ label {
         height: 1500px;
         box-sizing: border-box;
         width: 100%;
-        background-image: url("C:/Users/Justin/Desktop/Responsive-portfolio/assets/images/dark_wood.png");
+        background-image: url("assets\images\dark_wood.jpg");
 
     }
 
